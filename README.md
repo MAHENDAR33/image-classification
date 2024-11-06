@@ -40,4 +40,6 @@ To make the classification model accessible, I created a web application using F
 
 
 CNN image classification: Convolutional Neural Networks (CNNs) are a deep learning architecture specifically designed for image classification and other computer vision tasks. CNNs excel at automatically learning spatial hierarchies of features from input images, making them highly effective for complex image recognition. The architecture typically consists of convolutional layers that apply filters to extract features like edges, textures, and shapes, followed by pooling layers that reduce spatial dimensions and improve computational efficiency. These features are then passed through fully connected layers to classify images into specific categories.
-![image classification by CNN]()
+![image classification by CNN](https://github.com/MAHENDAR33/image-classification/blob/main/Screenshot%20(262).png)
+
+ResNet, VGG image classification: CNNs use backpropagation and optimization techniques to adjust filter values, enabling them to learn relevant features from large datasets without manual feature engineering. Common CNN models, such as ResNet, VGG, and Inception, have achieved state-of-the-art results in image classification tasks. By leveraging CNNs, image classification tasks can achieve high accuracy, particularly when trained on large, labeled datasets, making CNNs a preferred choice for applications in fields like healthcare, autonomous driving, and facial recognition.
