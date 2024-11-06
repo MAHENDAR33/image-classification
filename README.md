@@ -38,7 +38,9 @@ Traditional  image classification: In this project, I implemented a comprehensiv
 To make the classification model accessible, I created a web application using Flask, which serves as the backend framework. The web interface was developed using HTML, JavaScript, and CSS, providing an interactive and user-friendly experience. This application allows users to input data and receive predictions directly from the trained model, demonstrating the full process from data collection to real-time classification in a functional, web-based environment.
 ![by traditional way](https://github.com/MAHENDAR33/image-classification/blob/main/Screenshot%20(261).png)
 
-and here the ! [best model comparision](https://github.com/MAHENDAR33/image-classification/blob/main/Screenshot%20(266).png)
+and here the ![best model comparision](https://github.com/MAHENDAR33/image-classification/blob/main/Screenshot%20(266).png)
+
+
 CNN image classification: Convolutional Neural Networks (CNNs) are a deep learning architecture specifically designed for image classification and other computer vision tasks. CNNs excel at automatically learning spatial hierarchies of features from input images, making them highly effective for complex image recognition. The architecture typically consists of convolutional layers that apply filters to extract features like edges, textures, and shapes, followed by pooling layers that reduce spatial dimensions and improve computational efficiency. These features are then passed through fully connected layers to classify images into specific categories.
 ![image classification by CNN](https://github.com/MAHENDAR33/image-classification/blob/main/Screenshot%20(262).png)
 
