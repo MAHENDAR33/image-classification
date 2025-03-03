@@ -2,7 +2,7 @@
 Image Classification
 Name: Mahendar BS
 University: IIT Kanpur
-Aim: The aim of your project is to explore and evaluate the performance of image classification using both traditional machine learning algorithms (SVM, Random Forest, Logistic Regression) and advanced deep learning architectures (CNN, ResNet, VGG16). By applying these diverse approaches, the project seeks to identify the model that delivers the best classification accuracy while balancing factors like computational time and ease of implementation. This comparison will help determine which method is most suitable for specific image classification tasks, especially in terms of accuracy, computational efficiency, and overall usability.
+Aim: The aim of our project is to explore and evaluate the performance of image classification using both traditional machine learning algorithms (SVM, Random Forest, Logistic Regression) and advanced deep learning architectures (CNN, ResNet, VGG16). By applying these diverse approaches, the project seeks to identify the model that delivers the best classification accuracy while balancing factors like computational time and ease of implementation. This comparison will help determine which method is most suitable for specific image classification tasks, especially in terms of accuracy, computational efficiency, and overall usability.
 
 Libraries Used:
 1.	joblib: Efficiently saves and loads Python objects, particularly large data like models and arrays.
